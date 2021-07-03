@@ -6,5 +6,5 @@ allows you to play any alarm.mp3 sound when your friends, or enemys, come close
 (spy on your local poli,, politici,,, pol,, who ever you want really. it is legal.)
 
 flog.sh
-allows you to extract data from any plaintext file continously
-(see when your friends using theyr wifi networks , without attending the logging procees)
+allows you to extract data from any plaintext file continously and log it to a seperate file
+(see when someone used theyr wifi networks , without attending the logging procees live)
