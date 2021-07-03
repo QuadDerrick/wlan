@@ -7,4 +7,4 @@ allows you to play any alarm.mp3 sound when your friends, or enemys, come close
 
 flog.sh
 allows you to extract data from any plaintext file continously and log it to a seperate file
-(see when someone used theyr wifi networks , without attending the logging procees live)
+(see when someone used theyr wifi networks , without attending the logging procees live.)
